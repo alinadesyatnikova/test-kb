@@ -1,0 +1,1 @@
+- [Inicio](/ "Inicio | Prueba de base de conocimiento")
