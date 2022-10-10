@@ -1,13 +1,24 @@
-# How to
+# How to start with Test.io
 
-This page gives an overview on how to install and use the Test.io products.
+Congradulations! Your are 5 mins away from the fabulos Test.io. Now you just need to install your app, activate it and enjoy :confetti_ball:
 
-## Where do I find the download file
+## Installations :wrench:
 
-:wrench:Instalation files are available for :
+Instalation files are available for :
 - Mobile devices:
- - iOS,
- - Android.
+  - [iOS](URL),
+  - [Android](URL).
 - Computers:
- - MacOS,
- - Windows.
+  - [MacOS](URL),
+  - [Windows](URL).
+
+## Activation :closed_lock_with_key:
+
+Once the application is installed, it requires the activation code. You can find the activation code in the activation email.
+
+> **Note** <br>
+> If you cannot find the activation email, send a request to help@test.io or contact the Telegram chat-bot [@test.io](Telegram).
+
+## Setting your user profile :mortar_board:
+
+The second
