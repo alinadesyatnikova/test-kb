@@ -1,2 +1,3 @@
 - [Home](/ "Home | Test knowledge base")
 - [Getting started](getting-started.md "Getting started | Test knowledge base")
+- [How to](how-to.md "How to | Test knowledge base")
