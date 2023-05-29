@@ -1,3 +1,3 @@
-# Test knowledge base
+# Knowledge base
 
-This is the Test knowledge base.
+
